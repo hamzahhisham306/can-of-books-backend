@@ -18,12 +18,37 @@ React, express, Auth0 , MongoDB, axios, boostrap, heroko.
 
 ## Change Log
 
-Name of feature: add database using MongoDB
 
-Estimate of time needed to complete: 2 hour
+Actual time needed to complete: 2 hour 
+
+Name of feature: add method post
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:30
+
+Finish time: 4:30
+
+Actual time needed to complete: 2 hour 
+
+Actual time needed to complete:  1 hour
+
+Name of feature: add method delete method
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 4:30
+
+Finish time: 5:30
+
+Actual time needed to complete: 1 hour 
+
+Name of feature: add method put method
+
+Estimate of time needed to complete: 1 hour
 
 Start time: 5:30
 
-Finish time: 7:30
+Finish time: 6:30
 
-Actual time needed to complete: 2 hour 
+Actual time needed to complete: 1 hour 
